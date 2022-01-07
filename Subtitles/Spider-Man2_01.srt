@@ -1,0 +1,12 @@
+﻿1
+00:00:01,23 --> 00:00:02,36
+Peter Parker: [male_dub]
+
+2
+00:00:08,06 --> 00:00:09,11
+Unknown Female: You're Late.
+
+3
+00:00:10,29 --> 00:00:12,00
+Unknown Female: I'm not paying for those.
+
